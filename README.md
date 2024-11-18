@@ -5,7 +5,9 @@ Global Haitian Diapora Movement Celebrating Vertières 1803
 ## About
 **VÈTYÈ-1803** is a global movement inspired by the courage, unity, and resilience of Haitian ancestors who achieved victory on November 18, 1803. Our mission is to unite Haitians worldwide to create a sovereign, equitable, and prosperous Haiti. 
 
-This website serves as a hub for community engagement, showcasing our actions, results, and opportunities for involvement.
+This website serves as a hub for community engagement, showcasing our actions, results, and opportunities for involvement. 
+## Live Version
+The live version can be found here: [https://vetye-1803.netlify.app/](https://vetye-1803.netlify.app/)
 
 ---
 
